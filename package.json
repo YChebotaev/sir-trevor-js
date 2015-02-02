@@ -26,7 +26,8 @@
     "scribe-editor": "^1.0.0",
     "scribe-plugin-formatter-plain-text-convert-new-lines-to-html": "^0.1.1",
     "scribe-plugin-link-prompt-command": "^0.1.1",
-    "spin.js": "^2.0.1"
+    "spin.js": "^2.0.1",
+    "lodash.bind": "~3.0.0"
   },
   "devDependencies": {
     "browserify": "^7.0.0",

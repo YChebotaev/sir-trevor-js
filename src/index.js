@@ -13,6 +13,8 @@ var utils = require('./utils');
 
 var SirTrevor = {
 
+  _: _,
+
   config: require('./config'),
 
   log: utils.log,
